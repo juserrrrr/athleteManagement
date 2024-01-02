@@ -1,0 +1,173 @@
+{
+  "hugo": {
+    "py/object": "atleta.Atleta",
+    "_nome": "hugo",
+    "_idade": 21,
+    "_sexo": "M",
+    "_paralisia": {
+      "py/reduce": [
+        {
+          "py/type": "paralisias.Paralisias"
+        },
+        {
+          "py/tuple": [
+            0
+          ]
+        }
+      ]
+    },
+    "_covid": true,
+    "_modalidade": {
+      "py/reduce": [
+        {
+          "py/type": "modalidades.Modalidades"
+        },
+        {
+          "py/tuple": [
+            2
+          ]
+        }
+      ]
+    },
+    "_medalhas": [
+      1,
+      2,
+      0
+    ]
+  },
+  "ione": {
+    "py/object": "atleta.Atleta",
+    "_nome": "ione",
+    "_idade": 22,
+    "_sexo": "F",
+    "_paralisia": {
+      "py/reduce": [
+        {
+          "py/type": "paralisias.Paralisias"
+        },
+        {
+          "py/tuple": [
+            2
+          ]
+        }
+      ]
+    },
+    "_covid": false,
+    "_modalidade": {
+      "py/reduce": [
+        {
+          "py/type": "modalidades.Modalidades"
+        },
+        {
+          "py/tuple": [
+            3
+          ]
+        }
+      ]
+    },
+    "_medalhas": [
+      3,
+      2,
+      1
+    ]
+  },
+  "steave": {
+    "py/object": "atleta.Atleta",
+    "_nome": "steave",
+    "_idade": 32,
+    "_sexo": "M",
+    "_paralisia": {
+      "py/reduce": [
+        {
+          "py/type": "paralisias.Paralisias"
+        },
+        {
+          "py/tuple": [
+            3
+          ]
+        }
+      ]
+    },
+    "_covid": true,
+    "_modalidade": {
+      "py/reduce": [
+        {
+          "py/type": "modalidades.Modalidades"
+        },
+        {
+          "py/tuple": [
+            4
+          ]
+        }
+      ]
+    },
+    "_medalhas": [
+      0,
+      2,
+      1
+    ]
+  },
+  "sebasti\u00e3o": {
+    "py/object": "atleta.Atleta",
+    "_nome": "sebasti\u00e3o",
+    "_idade": 29,
+    "_sexo": "M",
+    "_paralisia": {
+      "py/reduce": [
+        {
+          "py/type": "paralisias.Paralisias"
+        },
+        {
+          "py/tuple": [
+            4
+          ]
+        }
+      ]
+    },
+    "_covid": false,
+    "_modalidade": {
+      "py/reduce": [
+        {
+          "py/type": "modalidades.Modalidades"
+        },
+        {
+          "py/tuple": [
+            5
+          ]
+        }
+      ]
+    },
+    "_medalhas": [
+      3,
+      0,
+      4
+    ]
+  },
+  "coralaine": {
+    "py/object": "atleta.Atleta",
+    "_nome": "coralaine",
+    "_idade": 21,
+    "_sexo": "F",
+    "_paralisia": {
+      "py/reduce": [
+        {
+          "py/type": "paralisias.Paralisias"
+        },
+        {
+          "py/tuple": [
+            1
+          ]
+        }
+      ]
+    },
+    "_covid": true,
+    "_modalidade": {
+      "py/id": 7
+    },
+    "_medalhas": [
+      2,
+      1,
+      3
+    ]
+  }
+}
